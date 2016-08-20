@@ -1,4 +1,0 @@
-module.exports = {
-	ACCESS_ID:  '80839c3ba9734af6b95fcf405f8eca35',
-	SECRET_KEY: '0c622e482411452b14a6654c9eac55b1a1b6888c48840fea0e2cf35ef9d97705'
-}
