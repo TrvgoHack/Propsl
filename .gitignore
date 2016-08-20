@@ -39,6 +39,7 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+<<<<<<< HEAD
 
 # EMACS
 	# -*- mode: gitignore; -*-
@@ -83,3 +84,7 @@ flycheck_*.el
 
 # projectiles files
 .projectile
+=======
+// Do not include the access tokens
+lib/config.js
+>>>>>>> fe43931... Add the config to the ignore file
