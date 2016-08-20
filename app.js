@@ -51,7 +51,7 @@ let path = '/webservice/tas/hotels';
 			else if (res.statusCode === 200)
 				console.log(res.body);
 		} catch(err) {
-			yield wait(2000);
+			yield wait(300);
 			doReq();
 		}
 	});
