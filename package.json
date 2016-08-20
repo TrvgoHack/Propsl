@@ -25,12 +25,13 @@
     "bluebird": "^3.4.1",
     "body-parser": "^1.15.2",
     "compress": "^0.99.0",
+    "compression": "^1.6.2",
     "express": "^4.14.0",
     "lodash": "^4.15.0",
     "morgan": "^1.7.0",
-    "superagent": "^2.2.0",
+    "q": "^1.4.1",
     "request-promise": "x.x.x",
-    "q": "^1.4.1"
+    "superagent": "^2.2.0"
   },
   "devDependencies": {
     "snazzy": "^4.0.1",
