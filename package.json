@@ -32,7 +32,8 @@
     "morgan": "^1.7.0",
     "q": "^1.4.1",
     "request-promise": "^4.1.1",
-    "superagent": "^2.2.0"
+    "superagent": "^2.2.0",
+    "request": "^2.74.0"
   },
   "devDependencies": {
     "nodemon": "^1.10.2",
